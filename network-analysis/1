@@ -1,0 +1,22 @@
+ Network Fundamentals
+
+## Topics Covered
+- What is a computer network
+- Hosts, IP addresses, and networks
+- Network devices:
+  - Hub
+  - Bridge
+  - Switch
+  - Router
+- OSI model (practical perspective)
+- OSI vs TCP/IP model mapping
+
+## Key Understanding
+- Networks enable communication between hosts using defined protocols
+- Switches operate at Layer 2, routers at Layer 3
+- OSI model helps understand where issues occur in network communication
+
+## SOC Perspective
+- Knowing device roles helps trace traffic flow during investigations
+- OSI model assists in isolating network vs application-layer issues
+- Misconfigured devices can lead to security gaps
